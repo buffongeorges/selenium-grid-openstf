@@ -1,23 +1,6 @@
-# CaPaaS
+# CaPaas - OpenSTF & Selenium Grid Tests
 
-## Prérequis
-
-Lancer un npm install.
-
-```bash
-npm install
-```
-
-## Lancer le serveur
-```bash
-mvn spring-boot:run
-```
-ou
-```bash
-java -jar <nom_du_jar>
-```
-
-## Lancer le client 
+## Des tests développés par Buffon Georges et Samantha Laiyoeurn
 ```bash
 npm run serve 
 ```
