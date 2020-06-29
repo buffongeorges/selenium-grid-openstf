@@ -1,10 +1,3 @@
 # CaPaas - OpenSTF & Selenium Grid Tests
 
-## Des tests développés par Buffon Georges et Samantha Laiyoeurn
-```bash
-npm run serve 
-```
-ou 
-```bash
-npm start
-```
+Des tests développés par Buffon Georges et Samantha Laiyoeurn dans le cadre de notre stage à Capgemini
